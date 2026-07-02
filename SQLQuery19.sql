@@ -1,3 +1,4 @@
+--Question 2 : Use Copilot to: Find total sales per city 
 SELECT 
     City,
     COUNT(*) AS TransactionCount,
