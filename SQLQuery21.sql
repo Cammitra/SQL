@@ -1,3 +1,4 @@
+--Find customers with purchases above average
 WITH AvgPurchase AS (
     SELECT AVG(PurchaseAmount) AS AvgAmount FROM SalesData
 )
