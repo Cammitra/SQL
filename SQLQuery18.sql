@@ -1,3 +1,4 @@
+--create a table SalesData whose columns are CustomerID, Name, Age, City, PurchaseAmount, PurchaseDate and then ask to insert 10,000 rows of random data
 -- Drop the table if it already exists
 DROP TABLE IF EXISTS SalesData;
 
