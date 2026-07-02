@@ -1,3 +1,4 @@
+--Top 5 cities by revenue
 SELECT TOP 5
     City,
     COUNT(*) AS TransactionCount,
